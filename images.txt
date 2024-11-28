@@ -4,4 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 registry.k8s.io/dns/k8s-dns-node-cache:1.22.18
+#--platform=linux/arm64 registry.k8s.io/dns/k8s-dns-node-cache:1.22.18
+--platform=linux/arm64 registry.k8s.io/cpa/cluster-proportional-autoscaler:1.8.5
+--platform=linux/arm64 docker.io/library/nginx:1.23.2-alpine
