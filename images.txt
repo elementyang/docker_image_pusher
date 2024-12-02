@@ -19,4 +19,9 @@
 #--platform=linux/arm64 registry.k8s.io/sig-storage/csi-snapshotter:v7.0.1
 #--platform=linux/arm64 registry.k8s.io/sig-storage/csi-attacher:v4.5.0
 #--platform=linux/arm64 kubesphere/notification-manager-operator:v2.3.0
---platform=linux/arm64 kubesphere/kube-rbac-proxy:v0.11.0
+#--platform=linux/arm64 kubesphere/kube-rbac-proxy:v0.11.0
+--platform=linux/arm64 kubesphere/notification-manager:v2.3.0
+--platform=linux/arm64 kubesphere/notification-tenant-sidecar:v3.2.0
+--platform=linux/arm64 csiplugin/snapshot-controller:v4.0.0
+--platform=linux/arm64 kubesphere/kubectl:v1.22.0
+--platform=linux/arm64 kubesphereio/defaultbackend:1.4
