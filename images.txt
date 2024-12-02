@@ -13,8 +13,9 @@
 #--platform=linux/arm64 registry.k8s.io/kube-proxy:v1.24.1
 #--platform=linux/arm64 kubesphere/ks-installer:v3.4.0
 #--platform=linux/arm64 rook/ceph:v1.13.10
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.0
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-resizer:v1.10.0
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-provisioner:v4.0.0
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-snapshotter:v7.0.1
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-attacher:v4.5.0
+#--platform=linux/arm64 registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.0
+#--platform=linux/arm64 registry.k8s.io/sig-storage/csi-resizer:v1.10.0
+#--platform=linux/arm64 registry.k8s.io/sig-storage/csi-provisioner:v4.0.0
+#--platform=linux/arm64 registry.k8s.io/sig-storage/csi-snapshotter:v7.0.1
+#--platform=linux/arm64 registry.k8s.io/sig-storage/csi-attacher:v4.5.0
+--platform=linux/arm64 kubesphere/notification-manager-operator:v2.3.0
