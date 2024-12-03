@@ -24,5 +24,6 @@
 #--platform=linux/arm64 kubesphere/notification-tenant-sidecar:v3.2.0
 #--platform=linux/arm64 csiplugin/snapshot-controller:v4.0.0
 #--platform=linux/arm64 kubesphere/kubectl:v1.22.0
---platform=linux/arm64 zl862520682/ks-console:v3.3.0
---platform=linux/arm64 mirrorgooglecontainers/defaultbackend-arm64:1.4
+#--platform=linux/arm64 zl862520682/ks-console:v3.3.0
+#--platform=linux/arm64 mirrorgooglecontainers/defaultbackend-arm64:1.4
+--platform=linux/arm64 node:12-alpine3.14
