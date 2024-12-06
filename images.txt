@@ -27,4 +27,5 @@
 #--platform=linux/arm64 zl862520682/ks-console:v3.3.0
 #--platform=linux/arm64 mirrorgooglecontainers/defaultbackend-arm64:1.4
 #--platform=linux/arm64 node:12-alpine3.14
---platform=linux/arm64 node:14-alpine3.15
+#--platform=linux/arm64 node:14-alpine3.15
+--platform=linux/arm64 node:16.14-alpine3.15
