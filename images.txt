@@ -90,5 +90,5 @@
 #--platform=linux/arm64 argoproj/argoexec:v3.4.3 
 #--platform=linux/arm64 mysql:8.0.32 
 #--platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.46.0
-#--platform=linux/arm64 istio/pilot:1.15.0
-grafana/grafana:latest
+#grafana/grafana:latest
+python:3.9-slim
