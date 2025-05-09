@@ -91,4 +91,5 @@
 #--platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.46.0
 #grafana/grafana:latest
 #python:3.9-slim
-multiarch/qemu-user-static:latest
+#multiarch/qemu-user-static:latest
+gcr.io/distroless/base-debian12/go_image_base:latest
