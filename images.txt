@@ -93,4 +93,5 @@
 #python:3.9-slim
 #multiarch/qemu-user-static:latest
 #gcr.io/distroless/base-debian12/go_image_base
-gcr.io/distroless/base-debian12@sha256:198302a46cd40ab2e24ee54d39ba0919a431e59289fd7b87f798b62e2076c62a
+#gcr.io/distroless/base-debian12@sha256:198302a46cd40ab2e24ee54d39ba0919a431e59289fd7b87f798b62e2076c62a
+gcr.io/distroless/base-debian12
