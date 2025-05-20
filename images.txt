@@ -99,4 +99,5 @@
 #quay.io/kubevirtci/alpine-with-test-tooling-container-disk@sha256:4a6c258a75cff2190d768ab06e57dbf375bedb260ce4ba79dd249f077e769dc5
 #quay.io/kubevirt/fedora-realtime-container-disk@sha256:437f4e02986daf0058239f4a282d32304dcac629d5d1b4c75a74025f1ce22811
 #quay.io/kubevirtci/fedora-with-test-tooling@sha256:ffcfed26f1784535ec5a2fed49ed80ccfd774aa09c665f95835c3d3bf3ec37aa
---platform=linux/riscv64 xfan1024/openeuler:24.03-riscv64
+#--platform=linux/riscv64 xfan1024/openeuler:24.03-riscv64
+xfan1024/openeuler:24.03
