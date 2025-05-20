@@ -96,4 +96,5 @@
 #gcr.io/distroless/base-debian12@sha256:198302a46cd40ab2e24ee54d39ba0919a431e59289fd7b87f798b62e2076c62a
 #gcr.io/distroless/base-debian12
 #gcr.io/distroless/base-debian12@sha256:a7af3ef5d69f6534ba0492cc7d6b8fbcffddcb02511b45becc2fac752f907584
-quay.io/kubevirtci/alpine-with-test-tooling-container-disk@sha256:4a6c258a75cff2190d768ab06e57dbf375bedb260ce4ba79dd249f077e769dc5
+#quay.io/kubevirtci/alpine-with-test-tooling-container-disk@sha256:4a6c258a75cff2190d768ab06e57dbf375bedb260ce4ba79dd249f077e769dc5
+quay.io/kubevirt/fedora-realtime-container-disk@sha256:437f4e02986daf0058239f4a282d32304dcac629d5d1b4c75a74025f1ce22811
