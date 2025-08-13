@@ -101,4 +101,5 @@
 #quay.io/kubevirtci/fedora-with-test-tooling@sha256:ffcfed26f1784535ec5a2fed49ed80ccfd774aa09c665f95835c3d3bf3ec37aa
 #--platform=linux/riscv64 xfan1024/openeuler:24.03-riscv64
 #xfan1024/openeuler:24.03
-dify-nginx
+#dify-nginx
+registry.k8s.io/metrics-server/metrics-server:v0.7.0
