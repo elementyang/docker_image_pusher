@@ -103,3 +103,5 @@
 #xfan1024/openeuler:24.03
 #dify-nginx
 registry.k8s.io/metrics-server/metrics-server:v0.7.0
+ubuntu:22.04
+python:3.12-slim
